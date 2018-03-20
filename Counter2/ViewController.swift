@@ -38,8 +38,6 @@ class ViewController: UIViewController {
         count = count + 1
         if count % 2 == 0 {
             view.backgroundColor = UIColor.green
-            
-
         }
         else {
             view.backgroundColor = UIColor.blue
